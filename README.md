@@ -2,7 +2,7 @@
 
 Exercises:
 
-1- Creating a Fork
+1- Creating a Fork:
 
 A fork is a personal copy of a repository hosted by a provider such as GitHub. Create a fork and clone it.
 Connecting to your GitHub profile with SSH
@@ -77,7 +77,7 @@ Now, you are ready to create a fork and clone it using git command. Get back to 
 
 Now, you should have folder “foldername” in your local computer and GitHub profile.
 
-2- Configure Git
+2- Configure Git:
 
 Configure Git with your full name and email address:
 
@@ -95,7 +95,7 @@ Configure Git with your full name and email address:
 
 This configures the default name and email address to use in commit messages. The --global flag causes the setting to apply to all repositories on your system, but per-repository configuration can override these. For more detail, see Customizing Git.
 
-3- Making Changes
+3- Making Changes:
 
 We're collecting pictures of the cutest animals on the web. Find a picture on a site with royalty free, public domain pictures, such as Pixabay.
 
@@ -120,7 +120,7 @@ We must now commit the changes to move them from the staging area to our local r
 
         create mode 100644 01 FolderName/wood-mouse-3077319_1920.jpg
 
-4-Sharing Changes
+4-Sharing Changes:
 
 The changes have been committed to your local repository, but they not be accessible by other team members. To make the changes visible, they need to be pushed to your fork:
 
@@ -128,7 +128,7 @@ The changes have been committed to your local repository, but they not be access
 
 You should now be able to browse your changes in a browser by navigating to:  https://github.com/youraccount/training
 
-5- Creating a Pull Request
+5- Creating a Pull Request:
 
 The changes have been made in your local repository as well as your remote fork repository on GitHub. These changes need to be merged to our shared workspace by using a Pull Request. Follow GitHub's guide to create a pull request.
  
